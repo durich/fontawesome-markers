@@ -1,0 +1,19 @@
+{
+    "name": "durich/fontawesome-markers",
+    "description": "Iconic markers for Map, based on the Font-Awesome icons",
+	"keywords": ["font", "awesome", "fontawesome", "icon", "font", "bootstrap", "markers", "maps"],
+    "authors": [
+        {
+            "name": "Ricardo Guevara",
+            "email": "durich@gmail.com",
+			"role": "packager"
+			
+        }
+    ],
+	"extra": {
+    "branch-alias": {
+      "dev-master": "4.6.x-dev"
+    },  
+    "minimum-stability": "dev",
+    "require": {}
+}
